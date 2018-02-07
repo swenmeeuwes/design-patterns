@@ -3,6 +3,7 @@ using System.Collections.Generic;
 
 namespace Graphics
 {
+    // "Composite"
     class CompositeGraphic : IGraphic
     {
         private List<IGraphic> _children = new List<IGraphic>();

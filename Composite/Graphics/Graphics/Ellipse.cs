@@ -2,6 +2,7 @@
 
 namespace Graphics
 {
+    // "Leaf"
     class Ellipse : IGraphic
     {
         public void Draw()

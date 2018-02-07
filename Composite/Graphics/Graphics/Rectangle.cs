@@ -2,6 +2,7 @@
 
 namespace Graphics
 {
+    // "Leaf"
     class Rectangle : IGraphic
     {
         public void Draw()
